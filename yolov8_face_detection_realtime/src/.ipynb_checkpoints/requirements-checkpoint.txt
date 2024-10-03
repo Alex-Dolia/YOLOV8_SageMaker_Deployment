@@ -1,0 +1,7 @@
+nvgpu
+opencv-python==4.8.1.78
+torchvision
+seaborn
+omegaconf==2.3.0
+ultralytics==8.1.45
+numpy==1.24.4
