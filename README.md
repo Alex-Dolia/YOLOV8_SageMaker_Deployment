@@ -3,8 +3,8 @@
 
 In this guide, we will explore how to deploy a YOLOv8 object detection model using two deployment methods provided by AWS SageMaker:
 
-1. **Real-Time Deployment**  
-2. **Asynchronous Deployment**
+1. **Real-Time Deployment** ([Documentation](https://docs.aws.amazon.com/sagemaker/latest/dg/realtime-endpoints.html))  
+2. **Asynchronous Deployment** ([Documentation](https://docs.aws.amazon.com/sagemaker/latest/dg/async-inference.html))
 
 Both approaches offer different advantages depending on your use case.
 
